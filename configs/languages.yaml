@@ -1,0 +1,19 @@
+languages:
+  zh:
+    name: Chinese
+    instruction: 使用自然中文商务表达生成会议纪要，不要逐字翻译。
+  en:
+    name: English
+    instruction: Generate professional business English meeting minutes.
+  th:
+    name: Thai
+    instruction: ใช้ภาษาไทยเชิงธุรกิจอย่างเป็นธรรมชาติ
+  vi:
+    name: Vietnamese
+    instruction: Sử dụng tiếng Việt thương mại tự nhiên.
+  id:
+    name: Indonesian
+    instruction: Gunakan bahasa Indonesia bisnis yang alami.
+  ms:
+    name: Malay
+    instruction: Gunakan Bahasa Melayu perniagaan semula jadi.
